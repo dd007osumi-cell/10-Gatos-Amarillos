@@ -15,4 +15,4 @@ Me considero una persona creativa y dispuesta a aprender, con el objetivo de apo
 ## 🍽️ Comida Favorita
 ¡Nada mejor para programar y diseñar que estar bien alimentado!
 
-![Mi Comida Favorita](Pizza-de-Pollo.jpg)
+![Mi Comida Favorita](DanielDiaz/Pizza-de-Pollo.jpg)
