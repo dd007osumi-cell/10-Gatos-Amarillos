@@ -2,7 +2,7 @@
 
 # Integrante: Daniel Fernando Díaz
 
-![Foto de Perfil](DanielDiaz/Daniel-pfp.jpg)
+![Foto de Perfil](DanielDiaz/Daniel-pfp.ppg)
 
 ## 👤 Información Personal
 *   **Rol en el equipo:** Artista 2D / Animador
