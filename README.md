@@ -2,6 +2,8 @@
 
 # Integrante: Daniel Fernando Díaz
 
+![Foto de Perfil](DanielDiaz/Daniel-pfp.jpg)
+
 ## 👤 Información Personal
 *   **Rol en el equipo:** Artista 2D / Animador
 *   **Ubicación:** Putumayo, Colombia
