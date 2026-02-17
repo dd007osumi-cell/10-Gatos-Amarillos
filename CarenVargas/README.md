@@ -7,9 +7,9 @@
 ## 👤 Información Personal
 
 ##Presentación de Integrante - Etapa 1
-*👤 **Nombre Completo:** Caren Vargas Vela
-*🎮 **Rol en la Industria:** Ingeniera Multimedia / Diseñadora Gráfica y Audiovisual
-*📍 **Ubicación:** Cali, Valle del Cauca, Colombia
+<p>*👤 **Nombre Completo:** Caren Vargas Vela</p>
+<p>*🎮 **Rol en la Industria:** Ingeniera Multimedia / Diseñadora Gráfica y Audiovisual</p>
+<p>*📍 **Ubicación:** Cali, Valle del Cauca, Colombia</p>
 *📝 **Perfil Profesional:** 
 ##<p>Ingeniera multimedia en formación con amplia experiencia en diseño gráfico, edición audiovisual y desarrollo web. Apasionada por crear experiencias digitales innovadoras que conectan la tecnología con la comunicación visual.</p>
 
