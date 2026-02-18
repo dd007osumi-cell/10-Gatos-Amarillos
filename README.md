@@ -3,7 +3,7 @@
 <p>--------------------------------------------------<p>
                                                        
 # Integrante: Caren Vargas Vela                                                   
-![Foto de Perfil](CarenVargas/perfil.jpeg)
+![Foto de Perfil](CarenVargas/1perfil.jpeg)
 ## 👤 Información Personal
 
 ##Presentación de Integrante - Etapa 1
@@ -15,7 +15,7 @@
 
 <p>Cuento con habilidades técnicas en herramientas como Adobe Premiere, After Effects, Photoshop, Illustrator y modelado 3D en Blender. Mi enfoque se centra en la creatividad, la visión estratégica y el impacto visual orientado a la experiencia del usuario (UX).</p>
 
-![Mi Comida Favorita](CarenVargas/bandeja.gif) 
+![Mi Comida Favorita](CarenVargas/1bandeja.gif) 
 =======
 <p>--------------------------------------------------<p>
  
